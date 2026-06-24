@@ -5,6 +5,6 @@ target/
 __pycache__/
 *.pyc
 .venv/
-data/raw/*.csv
+*.csv
 output/*.xlsx
 .env
